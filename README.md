@@ -1,4 +1,4 @@
-# Hexo Template
+# Hexo Blog Template
 
 This is a Hexo template for creating a blog.
 
@@ -16,7 +16,7 @@ git clone https://github.com/CatIsNotFound/Hexo-Blog-Template.git
 
 
 ```
-cd Hexo-Template
+cd Hexo-Blog-Template
 npm install
 ```
 
