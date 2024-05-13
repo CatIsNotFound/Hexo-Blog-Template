@@ -9,7 +9,7 @@ To use this template, you need to have Node.js and Hexo installed on your comput
 1. Clone this repository to your local machine.
 
 ```
-git clone https://github.com/catisnotfound/Hexo-Template.git
+git clone https://github.com/CatIsNotFound/Hexo-Blog-Template.git
 ```
 
 2. Install the dependencies.
